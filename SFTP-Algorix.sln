@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFTP-Algorix", "SFTP-Algorix\SFTP-Algorix.csproj", "{D7E4A0B4-C959-4A81-A92E-85290679B6A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste SFTP Lib", "C:\Users\nando\source\repos\Teste SFTP Lib\Teste SFTP Lib.csproj", "{56B7F0C0-20BF-48B5-86A1-D3A1C928DDF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7E4A0B4-C959-4A81-A92E-85290679B6A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E4A0B4-C959-4A81-A92E-85290679B6A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E4A0B4-C959-4A81-A92E-85290679B6A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E4A0B4-C959-4A81-A92E-85290679B6A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56B7F0C0-20BF-48B5-86A1-D3A1C928DDF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B7F0C0-20BF-48B5-86A1-D3A1C928DDF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B7F0C0-20BF-48B5-86A1-D3A1C928DDF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B7F0C0-20BF-48B5-86A1-D3A1C928DDF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {228CD26A-EE22-48C6-9BD8-BDF27E39EAA7}
+	EndGlobalSection
+EndGlobal
